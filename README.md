@@ -20,6 +20,8 @@ Configured Python kernel = 3.7.9 64-bit<br/>
 How to run the application locally:<br/>
 Open up the folder in your cmd prompt or in a sourcecode editor (VSCode e.g.).<br/>
 
+This Neural network with Pytorch, is able to predict the position of a footballplayer in the field. Based on several features.<br/>
+
 If you have any questions please do not hesitate to contact me: mblomvliet@gmail.com<br/>
 
 Best,<br/>
